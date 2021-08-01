@@ -1,0 +1,6 @@
+    T 
+    pandas 
+    from streamlit.util import index_ 
+    yfinance==0.1.63
+    altair==4.1.0
+    streamlit==0.84.0
